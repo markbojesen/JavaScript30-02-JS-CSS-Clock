@@ -1,4 +1,3 @@
-#JavaScript &amp; CSS Clock
 
 All in one HTML file.
 
